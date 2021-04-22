@@ -42,3 +42,18 @@ The tracking stops as we press 'q' button on our keyboard.
 <br>
 <br>
 #### To freshly install python and pip::
+First check if you have python installed in your computer.
+Open command prompt and type the command `python --version`.
+<br>
+<br>
+If version does not appears that means your system does not have python installed properly.
+Head over to `python.org` and download and install python first.
+While installing be sure to check the `Add python to PATH` button.
+<br>
+<br>
+To check the successful installation of python, in cmd type `python --version`. If the version appears, then it is installed.
+Newer versions of python have pip preinstalled by defult.
+<br>
+<br>
+If python is installed then type `pip`, if it executes properly then pip is present in your system.
+You should be good to go now.
